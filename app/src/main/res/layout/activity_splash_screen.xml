@@ -4,16 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/backgrounda"
+    android:background="#3B3486"
     tools:context=".SplashScreen">
 
 
 
     <ImageView
         android:id="@+id/appsplash"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
-        android:src="@drawable/maidimage"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:src="@drawable/maidsplash"
         android:layout_centerInParent="true"
         />
     <TextView
